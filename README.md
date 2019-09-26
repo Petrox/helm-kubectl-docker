@@ -1,9 +1,9 @@
-# helm-kubectl-docker
+# helm-kubectl-docker-git
 docker image with helm and kubectl installed
 
-Based on alpine
+Based on alpine and https://hub.docker.com/r/lwolf/helm-kubectl-docker
 
-https://hub.docker.com/r/lwolf/helm-kubectl-docker
+https://hub.docker.com/r/peterkopias/helm-kubectl-docker-git
 
 :heavy_exclamation_mark: dockerfile is now being autobuild daily. The table below could be outdated, check docker hub for the latest release
 
